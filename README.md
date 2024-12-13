@@ -1,6 +1,6 @@
 # Modelos de Simulación de Economía
 
-Este repositorio contiene dos modelos de simulación económica: uno para una economía planificada en un sistema comunista y otro para una economía de mercado en un sistema capitalista. Estos modelos permiten comparar cómo diferentes sistemas económicos afectan el desarrollo regional, la infraestructura, la migración, la productividad y otros indicadores socioeconómicos.
+Este repositorio contiene TRES modelos de simulación económica: uno para una economía planificada y centralizada en un sistema comunista ,otro de economia mixta en un sistema politico hibrido o socialdemocrata y otro para una economía de mercado en un sistema capitalista. Estos modelos permiten comparar cómo diferentes sistemas económicos afectan el desarrollo regional, la infraestructura, la migración, la productividad y otros indicadores socioeconómicos.
 
 ## Contenido
 
