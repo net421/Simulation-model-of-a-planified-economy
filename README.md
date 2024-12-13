@@ -6,6 +6,7 @@ Este repositorio contiene tres modelos de simulación económica: uno para una e
 
 - `modelo_planificado.py`: Simulación de una economía planificada.
 - `modelo_mercado.py`: Simulación de una economía de mercado.
+- `modelo_mixto.py`: Simulacion de una economía mixta.
 
 ## Requisitos
 
